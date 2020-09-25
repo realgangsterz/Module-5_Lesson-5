@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-lesson5';
+
+  onRateChange(value) {
+    console.log(value);
+  }
 }

@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-lesson5"
+    }
+  },
+  "defaultProject": "angular-lesson5",
+  "cli": {
+    "analytics": false
+  }
 }
